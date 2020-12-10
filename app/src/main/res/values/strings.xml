@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsteroidsGL</string>
+    <string name="game_over">game over your score was:</string>
+    <string name="press_to_play">Press any button to play</string>
+    <string name="health">Health</string>
+    <string name="level">"Level"</string>
+    <string name="score">"Score"</string>
+    <string name="fps">"fps"</string>
+    <string name="finished">"finished"</string>
+
+</resources>

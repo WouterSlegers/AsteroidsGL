@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keypad_size">60dp</dimen>
+    <dimen name="padding">30dp</dimen>
+    <dimen name="direction_arrow_scale">1.5</dimen>
+    <dimen name="up_arrow_scaleX">1.5</dimen>
+    <dimen name="up_arrow_scaleY">3.5</dimen>
+</resources>
